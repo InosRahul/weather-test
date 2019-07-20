@@ -1,0 +1,23 @@
+body{
+    margin: 0%;
+    background: #221F1F;
+}
+
+.heading{
+    text-align: center;
+    align-content: center;
+    margin-top: 20%;
+}
+
+.heading h2{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.heading h3{
+    color: white;
+    font-family: sans-serif;
+}
+hr{
+    height: 0.5px;
+    width: 22%;
+}
